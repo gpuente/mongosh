@@ -40,6 +40,7 @@
     "@mongosh/browser-runtime-core": "^0.0.5",
     "@mongosh/history": "^0.0.5",
     "@mongosh/i18n": "^0.0.5",
+    "@mongosh/shell-api": "^0.0.5",
     "@mongosh/service-provider-core": "^0.0.5",
     "pretty-bytes": "^5.3.0",
     "text-table": "^0.2.0"
